@@ -14,10 +14,15 @@ Outside of work I am the VP of Warwick University Rugby League (always looking f
 - ***Bank of America*** (2019 and 2020), *Summer Technology Analyst*: Worked on an internal testing platform and took part in an NLP data science project
 - ***MastersAvenue*** (2018), *Summer Intern*: Built auction platform using to match students to Universities/agents for PG study
 
+## Technologies
+
+- ***Languages***: Rust, C/C++, Java, Python, SQL, Verilog, JavaScript, PHP
+- ***Libraries***: Keras, Pandas, Numpy, tokio, React, jQuery, NS3, OpenMP, Pthread, Intel Intrinsics
+- ***Other***: AMPS, FIX Messaging, Bluetooth, TCP/IP, QUIC, Git, LaTeX/BibTeX
+
 ## Citations
 
-- *CASTLEGUARD: Anonymised Data Streams with Guaranteed Differential Privacy*; Alistair Robinson and ***Frederick Brown*** and Nathan Hall and Alex Jackson and Graham Kemp and Matthew Leeke; 18th IEEE International Conference on Dependable, Autonomic and Secure
-Computing (DASC 2020) (DASC 2020)
+- *CASTLEGUARD: Anonymised Data Streams with Guaranteed Differential Privacy*; Alistair Robinson and ***Frederick Brown*** and Nathan Hall and Alex Jackson and Graham Kemp and Matthew Leeke; 18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2020)
 
 ## Interesting Things
 
