@@ -11,8 +11,8 @@ Outside of work I am the VP of Warwick University Rugby League (always looking f
 
 ## Work
 
-- Bank of America (2019 and 2020), Summer Technology Analyst: Worked on an internal testing platform and took part in an NLP data science project
-- MastersAvenue (2018), Summer Intern: Built auction platform using to match students to Universities/agents for PG study
+- ***Bank of America*** (2019 and 2020), *Summer Technology Analyst*: Worked on an internal testing platform and took part in an NLP data science project
+- ***MastersAvenue*** (2018), *Summer Intern*: Built auction platform using to match students to Universities/agents for PG study
 
 ## Citations
 
