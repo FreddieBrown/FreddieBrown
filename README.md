@@ -2,10 +2,17 @@
 
 I'm Freddie Brown and I'm a 4th Year CS Student at the University of Warwick. I am currently working on a lot of Rust projects such as [stabilize](https://github.com/FreddieBrown/stabilize), this is open to collaration. If you are interested, clone the repo and make a PR! My main interests centre around Distributed Systems and P2P networks and how these can be applied to other areas, such as Machine Learning and other real world use cases.
 
+Outside of work I am the VP of Warwick University Rugby League (always looking for new sponsors!). I support Chelsea FC and Bedford RFC.
+
 ## Projects
 
 - [stabilize](https://github.com/FreddieBrown/stabilize): This is a load balancer written in Rust using the QUIC protocol.
 - [Bluefind](https://github.com/FreddieBrown/Bluefind): My dissertation project which investigated the use of P2P dissemintation of location dat using Bluetooth. Mark: 84%.
+
+## Work
+
+- Bank of America (2019 and 2020), Summer Technology Analyst: Worked on an internal testing platform and took part in an NLP data science project
+- MastersAvenue (2018), Summer Intern: Built auction platform using to match students to Universities/agents for PG study
 
 ## Citations
 
