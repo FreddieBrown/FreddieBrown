@@ -4,7 +4,7 @@ I'm Freddie Brown and I'm a 4th Year CS Student at the University of Warwick. I 
 
 ## Projects
 
-- [Stabilize](https://github.com/FreddieBrown/stabilize): This is a load balancer written in Rust using the QUIC protocol.
+- [stabilize](https://github.com/FreddieBrown/stabilize): This is a load balancer written in Rust using the QUIC protocol.
 - [Bluefind](https://github.com/FreddieBrown/Bluefind): My dissertation project which investigated the use of P2P dissemintation of location dat using Bluetooth. Mark: 84%.
 
 ## Citations
