@@ -17,7 +17,7 @@ Outside of work I am the VP of Warwick University Rugby League (always looking f
 ## Technologies
 
 - ***Languages***: Rust, C/C++, Java, Python, SQL, Verilog, JavaScript, PHP
-- ***Libraries***: Keras, Pandas, Numpy, tokio, React, jQuery, NS3, OpenMP, Pthread, Intel Intrinsics
+- ***Libraries***: Keras, Pandas, Numpy, tokio, OpenMP, Pthread, Intel Intrinsics, LLVM, React, jQuery, NS3
 - ***Other***: AMPS, FIX Messaging, Bluetooth, TCP/IP, QUIC, Git, LaTeX/BibTeX
 
 ## Citations
