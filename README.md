@@ -6,10 +6,10 @@ Outside of work I am the VP of Warwick University Rugby League (always looking f
 
 ## Projects
 
+- [Sybl](https://www.youtube.com/watch?v=DveGa9gjLDo&t=1149s): Low-code Ensemble ML Platform making data science simple
 - [stabilize](https://github.com/FreddieBrown/stabilize): This is a load balancer written in Rust using the QUIC protocol.
 - [Bluefind](https://github.com/FreddieBrown/Bluefind): My dissertation project which investigated the use of P2P dissemintation of location dat using Bluetooth. Mark: 84%.
 - [rello](https://github.com/FreddieBrown/rello): Command Line Project Management Tool. Allows users to create and use a Kanban board within a Git repo.
-- [Sybl](https://www.youtube.com/watch?v=DveGa9gjLDo&t=1149s): Low-code Ensemble ML Platform making data science simple
 
 ## Work
 
