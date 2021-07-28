@@ -17,7 +17,7 @@ I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am cur
 ## Technologies
 
 - ***Languages***: Rust, C/C++, Java, Python, SQL, Verilog, JavaScript, PHP
-- ***Libraries***: tokio, Actix Keras, Pandas, Numpy, OpenMP, Pthread, VueJS, Intel Intrinsics
+- ***Libraries***: tokio, Actix, Keras, Pandas, Numpy, OpenMP, Pthread, VueJS, Intel Intrinsics
 - ***Other***: AMPS, FIX Messaging, Apache Kafka, MongoDB, Bluetooth, TCP/IP, QUIC, Git, LaTeX/BibTeX
 
 ## Citations
