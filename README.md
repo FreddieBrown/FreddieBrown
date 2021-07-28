@@ -1,6 +1,6 @@
 # About Me!
 
-I'm Freddie Brown and I'm a 4th Year CS Student at the University of Warwick. I am currently working on a lot of Rust projects such as [stabilize](https://github.com/FreddieBrown/stabilize). If you are interested in collaborating, clone the repo and make a PR! My main interests centre around Distributed Systems and P2P networks and how these can be applied to other areas, such as Machine Learning and other real world use cases.
+I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am currently working on a lot of Rust projects such as [stabilize](https://github.com/FreddieBrown/stabilize). If you are interested in collaborating, clone the repo and make a PR! My main interests centre around Distributed Systems and P2P networks and how these can be applied to other areas, such as Machine Learning and other real world use cases.
 
 Outside of work I am the VP of Warwick University Rugby League (always looking for new sponsors!). I support Chelsea FC and Bedford Blues RFC.
 
@@ -33,6 +33,4 @@ Outside of work I am the VP of Warwick University Rugby League (always looking f
 - [Red Notice](https://www.amazon.co.uk/Red-Notice-Became-Putins-Enemy/dp/0593072952): This is a book that I enjoyed and think it provides an interesting insight into Russian politics and business.
 - [American Kingpin](https://www.amazon.co.uk/American-Kingpin-Criminal-MasterMind-Behind/dp/1591848148): Book about the drugs on the dark web and how they caugh the people running it
 - [Shoe Dog](https://www.amazon.co.uk/Shoe-Dog-Memoir-Creator-NIKE/dp/1471146723/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=): The story of Nike. Interesting and inspiring
-- [Ready Player One](https://www.amazon.co.uk/Ready-Player-One-Ernest-Cline/dp/0099560437/ref=sr_1_1?crid=3FNQPSIKYWPHI&dchild=1&keywords=ready+player+one&qid=1594480135&s=books&sprefix=ready%2Cstripbooks%2C171&sr=1-1): Brilliant book about a dystopian future centred around VR, sequel coming soon.
-- [How Swift Achieved Dynamic Linking Where Rust Couldn't](https://gankra.github.io/blah/swift-abi/): Interesting article about ABIs and how Swift has acheived it and the problems Rust has in implementing one for itself.
 
