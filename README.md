@@ -9,11 +9,6 @@ I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am cur
 - [Bluefind](https://github.com/FreddieBrown/Bluefind): Dissertation project which investigated the use of P2P dissemintation of location dat using Bluetooth.
 - [rello](https://github.com/FreddieBrown/rello): Command Line Project Management Tool. Allows users to create and use a Kanban board within a Git repo.
 
-## Work
-
-- ***Bank of America*** (2019 and 2020) *Summer Technology Analyst*: Worked on an internal testing platform and took part in an NLP data science project
-- ***MastersAvenue*** (2018) *Summer Intern*: Built auction platform using to match students to Universities/agents for PG study
-
 ## Technologies
 
 - ***Languages***: Rust, C/C++, Java, Python, SQL, Verilog, JavaScript, PHP
