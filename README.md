@@ -18,12 +18,3 @@ I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am cur
 ## Citations
 
 - *CASTLEGUARD: Anonymised Data Streams with Guaranteed Differential Privacy*; Alistair Robinson and ***Frederick Brown*** and Nathan Hall and Alex Jackson and Graham Kemp and Matthew Leeke; 18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2020)
-
-## Interesting Things
-
-- [The Rust Book](https://doc.rust-lang.org/book/title-page.html): A language I am using a lot at the moment, the Rust Book is a great place to start!
-- [Quinn](https://github.com/djc/quinn): Library I used for stabilize. Works well and integrates with tokio nicely
-- [Red Notice](https://www.amazon.co.uk/Red-Notice-Became-Putins-Enemy/dp/0593072952): This is a book that I enjoyed and think it provides an interesting insight into Russian politics and business.
-- [American Kingpin](https://www.amazon.co.uk/American-Kingpin-Criminal-MasterMind-Behind/dp/1591848148): Book about the drugs on the dark web and how they caugh the people running it
-- [Shoe Dog](https://www.amazon.co.uk/Shoe-Dog-Memoir-Creator-NIKE/dp/1471146723/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=): The story of Nike. Interesting and inspiring
-
