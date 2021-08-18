@@ -4,10 +4,10 @@ I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am cur
 
 ## Projects
 
-- [Sybl](https://www.youtube.com/watch?v=DveGa9gjLDo&t=1149s): Low-code Ensemble ML Platform making data science simple
+- [LukChat](https://github.com/FreddieBrown/LukChat): Generalised Blockchain library
+- [Sybl](https://www.youtube.com/watch?v=DveGa9gjLDo&t=1149s): Low-code Ensemble ML Platform making data science simple.
 - [stabilize](https://github.com/FreddieBrown/stabilize): This is a load balancer written in Rust using the QUIC protocol.
 - [Bluefind](https://github.com/FreddieBrown/Bluefind): Dissertation project which investigated the use of P2P dissemintation of location dat using Bluetooth.
-- [rello](https://github.com/FreddieBrown/rello): Command Line Project Management Tool. Allows users to create and use a Kanban board within a Git repo.
 
 ## Technologies
 
