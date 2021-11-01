@@ -1,6 +1,6 @@
 # About Me!
 
-I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am currently working on a lot of Rust projects such as [stabilize](https://github.com/FreddieBrown/stabilize). If you are interested in collaborating, clone the repo and make a PR! My main interests centre around Distributed Systems and P2P networks and how these can be applied to other areas, such as Machine Learning and other real world use cases.
+I'm Freddie Brown and I'm a CS Graduate from the University of Warwick. I am currently working on Rust projects such as [stabilize](https://github.com/FreddieBrown/stabilize). If you are interested in collaborating, clone the repo and make a PR! My main interests centre around Distributed Systems and P2P networks and how these can be applied to other areas, such as Machine Learning and other real world use cases.
 
 ## Projects
 
